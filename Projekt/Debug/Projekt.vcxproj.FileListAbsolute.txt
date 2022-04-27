@@ -1,0 +1,5 @@
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Debug\Projekt.vcxprojAssemblyReference.cache
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Debug\Projekt.Login.resources
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Debug\Projekt.vcxproj.GenerateResource.cache
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Debug\Projekt.POP3.resources
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Debug\Projekt.SMTP.resources

@@ -1,0 +1,64 @@
+Od:Arek Palka <arek35g@gmail.com>
+Do: tace1975@o2.pl
+Data: Tue Jan  5 10:28:17 2021
+
+Czym jest Lorem Ipsum?
+
+Lorem Ipsum jest tekstem stosowanym jako przyk³adowy wype³niacz w
+przemyœle poligraficznym. Zosta³ po raz pierwszy u¿yty w XV w. przez
+nieznanego drukarza do wype³nienia tekstem próbnej ksi¹¿ki. Piêæ
+wieków póŸniej zacz¹³ byæ u¿ywany przemyœle elektronicznym, pozostaj¹c
+praktycznie niezmienionym. Spopularyzowa³ siê w latach 60. XX w. wraz
+z publikacj¹ arkuszy Letrasetu, zawieraj¹cych fragmenty Lorem Ipsum, a
+ostatnio z zawieraj¹cym ró¿ne wersje Lorem Ipsum oprogramowaniem
+przeznaczonym do realizacji druków na komputerach osobistych, jak
+Aldus PageMaker
+
+Do czego tego u¿yæ?
+
+Ogólnie znana teza g³osi, i¿ u¿ytkownika mo¿e rozpraszaæ zrozumia³a
+zawartoœæ strony, kiedy ten chce zobaczyæ sam jej wygl¹d. Jedn¹ z
+mocnych stron u¿ywania Lorem Ipsum jest to, ¿e ma wiele ró¿nych
+„kombinacji” zdañ, s³ów i akapitów, w przeciwieñstwie do zwyk³ego:
+„tekst, tekst, tekst”, sprawiaj¹cego, ¿e wygl¹da to „zbyt czytelnie”
+po polsku. Wielu webmasterów i designerów u¿ywa Lorem Ipsum jako
+domyœlnego modelu tekstu i wpisanie w internetowej wyszukiwarce ‘lorem
+ipsum’ spowoduje znalezienie bardzo wielu stron, które wci¹¿ s¹ w
+budowie. Wiele wersji tekstu ewoluowa³o i zmienia³o siê przez lata,
+czasem przez przypadek, czasem specjalnie (humorystyczne wstawki itd).
+
+
+Sk¹d siê to wziê³o?
+
+W przeciwieñstwie do rozpowszechnionych opinii, Lorem Ipsum nie jest
+tylko przypadkowym tekstem. Ma ono korzenie w klasycznej ³aciñskiej
+literaturze z 45 roku przed Chrystusem, czyli ponad 2000 lat temu!
+Richard McClintock, wyk³adowca ³aciny na uniwersytecie Hampden-Sydney
+w Virginii, przyjrza³ siê uwa¿niej jednemu z najbardziej niejasnych
+s³ów w Lorem Ipsum - consectetur - i po wielu poszukiwaniach odnalaz³
+niezaprzeczalne Ÿród³o: Lorem Ipsum pochodzi z fragmentów (1.10.32 i
+1.10.33) „de Finibus Bonorum et Malorum”, czyli „O granicy dobra i
+z³a”, napisanej w³aœnie w 45 p.n.e. przez Cycerona. Jest to bardzo
+popularna w czasach renesansu rozprawa na temat etyki. Pierwszy wiersz
+Lorem Ipsum, „Lorem ipsum dolor sit amet...” pochodzi w³aœnie z sekcji
+1.10.32.
+
+Standardowy blok Lorem Ipsum, u¿ywany od XV wieku, jest odtworzony
+ni¿ej dla zainteresowanych. Fragmenty 1.10.32 i 1.10.33 z „de Finibus
+Bonorum et Malorum” Cycerona, s¹ odtworzone w dok³adnej, oryginalnej
+formie, wraz z angielskimi t³umaczeniami H. Rackhama z 1914 roku.
+
+Sk¹d to wzi¹æ?
+
+Jest dostêpnych wiele ró¿nych wersji Lorem Ipsum, ale wiêkszoœæ
+zmieni³a siê pod wp³ywem dodanego humoru czy przypadkowych s³ów, które
+nawet w najmniejszym stopniu nie przypominaj¹ istniej¹cych. Jeœli masz
+zamiar u¿yæ fragmentu Lorem Ipsum, lepiej mieæ pewnoœæ, ¿e nie ma
+niczego „dziwnego” w œrodku tekstu. Wszystkie Internetowe generatory
+Lorem Ipsum maj¹ tendencje do kopiowania ju¿ istniej¹cych bloków, co
+czyni nasz pierwszym prawdziwym generatorem w Internecie. U¿ywamy
+zawieraj¹cego ponad 200 ³aciñskich s³ów s³ownika, w kontekœcie wielu
+znanych sentencji, by wygenerowaæ tekst wygl¹daj¹cy odpowiednio. To
+wszystko czyni „nasz” Lorem Ipsum wolnym od powtórzeñ, humorystycznych
+wstawek czy niecharakterystycznych s³ów.
+

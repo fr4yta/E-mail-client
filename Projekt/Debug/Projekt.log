@@ -1,0 +1,12 @@
+﻿  Login.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Login.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Login.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Login.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\SMTP.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\SMTP.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Login.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\POP3.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\POP3.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\POP3.h(71,16): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  Files.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Projekt.vcxproj -> C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Debug\Projekt.exe

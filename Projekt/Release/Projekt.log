@@ -1,0 +1,16 @@
+﻿  Login.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\Login.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\SMTPLogin.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/SMTPClientSession.h': No such file or directory
+  POP3.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\POP3.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\ReadMails.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/POP3ClientSession.h': No such file or directory
+  POP3Login.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\POP3Login.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/POP3ClientSession.h': No such file or directory
+  SMTPLogin.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\SMTPLogin.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/SMTPClientSession.h': No such file or directory
+  ReadMails.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\ReadMails.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/POP3ClientSession.h': No such file or directory
+  WriteMail.cpp
+C:\Users\ArAs\Desktop\Studia\Sem.03\(PK) Programowanie komputerów\Projekt\Projekt\Projekt\Projekt\WriteMail.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Poco/Net/SMTPClientSession.h': No such file or directory
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
